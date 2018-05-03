@@ -1,0 +1,23 @@
+{
+  "name": "TIL",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ne2030/TIL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ne2030/TIL/issues"
+  },
+  "homepage": "https://github.com/ne2030/TIL#readme",
+  "dependencies": {
+    "partial-js": "^1.1.5"
+  }
+}

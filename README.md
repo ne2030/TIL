@@ -5,3 +5,4 @@
 6: Professor-frisby's guide to FP - pure functions in FP
 8: FP - pipe with SE
 10: image resizing and resampling
+11: the case for purity

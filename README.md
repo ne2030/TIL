@@ -6,3 +6,4 @@
 8: FP - pipe with SE
 10: image resizing and resampling
 11: the case for purity
+12: Currying

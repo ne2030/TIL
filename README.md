@@ -13,3 +13,5 @@
 11: the case for purity
 
 12: Currying
+
+13: codewars - problem solving

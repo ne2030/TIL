@@ -15,7 +15,7 @@ const getImageSize = (path) =>
             });
     });
 
-const resizeImg = (srcPath, name) => {
+const resizeImgAll = (srcPath, name) => {
     Promise.all([10, 20, 30, 40, 50, 60, 70, 80].map(resolution => {
         new Promise((res, rej) => {
             gm(Path.resolve(__dirname, srcPath, name + '.jpg'))
@@ -25,6 +25,15 @@ const resizeImg = (srcPath, name) => {
     }))
 }
 
-resizeImg('../../resources/img/', 'over5mb');
+const resizeImg = (srcPath, name, resolution) =>
+    new Promise((res, rej) => {
+        gm(Path.resolve(__dirname, srcPath, name))
+            .quality(resolution)
+            .write(Path.resolve(__dirname, srcPath, name), (err) => err ? rej(err) : res());
+    });
+
+// resizeImgAll('../../resources/img/', 'over5mb');
 
 // getImageSize('../../resources/img/img_test_resize.jpg').then(console.log).catch(console.log)
+
+resizeImg('../../resources/img', 'test.jpg', 50);

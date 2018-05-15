@@ -15,3 +15,5 @@
 12: Currying
 
 13: codewars - problem solving
+
+15: Coding by Composing - associativity

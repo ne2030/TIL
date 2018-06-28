@@ -1,0 +1,50 @@
+module.exports = [
+    [
+        'Brand Role - for customer ( 5 ), for firm ( 5 )',
+        'Customer Based Brand Equity ( 3 )',
+        'Brand Resonance Model ( 6 )',
+        'Brand Element Criteria ( 6 )',
+        'Internal Branding - 4',
+        'Brand Value-chain ( 4 )',
+        'Brand Portfolios ( 4 )'
+    ],
+    [
+        'Five Product Level',
+        'Product Classification',
+        'Product & Service Differentiation ',
+        'Product line stretching ( 3 )',
+        'Product Mix Pricing ( 6 )',
+        'Co-Branding ( 4 )',
+    ],
+    [
+        'Consumer psychology and pricing ( 3 )',
+        'consumer reference prices ( 4 )',
+        '6 steps setting pricing',
+        'Pricing Objectives',
+        'Pricing Methods',
+        'Geographical Pricing',
+        'Discounts ',
+        'Promotional Pricing',
+        'trap',
+    ],
+    [
+        'Marketing channel system',
+        'Channel Member Functions',
+        'Five Marketing flows',
+        'Channel Levels (consumer, industrial)',
+        'Channel Design Decisions',
+        'Number of Intermediaries',
+        'Channel Management Decision',
+        'Channel Power',
+        'Conflicts and Competitions',
+        'cause of channel conflict',
+    ],
+    [
+        'communication mix',
+        'Communication process model\nMacro ( 9 factor ) / Micro',
+        'Response hierarchy model',
+        'Ideal Ad Campaign ( Characteristics )',
+        'Personal vs Non-personal communication channel',
+        'Buyer readiness stage',
+    ]
+];

@@ -99,8 +99,7 @@
     const fastestCar_answer = compose(flip(concat)(' is the fastest'), last ,sortBy(prop('horsepower')));
 
     const append = flip(concat);
-    const solution = compose(
-        append(' is the fasteset'),
+    const solution = compose(append(' is the fasteset'),
         prop('name'),
         last,
         sortBy(prop('horsepower'))

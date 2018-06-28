@@ -1,0 +1,39 @@
+1번 :: Product line stretching ( 3 ) 
+2번 :: Brand Role - for customer ( 5 ), for firm ( 5 ) 
+3번 :: Marketing channel system 
+4번 :: Geographical Pricing 
+5번 :: Discounts  
+6번 :: Channel Power 
+7번 :: Co-Branding ( 4 ) 
+8번 :: Customer Based Brand Equity ( 3 ) 
+9번 :: Brand Resonance Model ( 6 ) 
+10번 :: Channel Design Decisions 
+11번 :: Buyer readiness stage 
+12번 :: Pricing Methods 
+13번 :: Five Marketing flows 
+14번 :: Consumer psychology and pricing ( 3 ) 
+15번 :: Brand Element Criteria ( 6 ) 
+16번 :: Internal Branding - 4 
+17번 :: Product & Service Differentiation  
+18번 :: Product Mix Pricing ( 6 ) 
+19번 :: Five Product Level 
+20번 :: Promotional Pricing 
+21번 :: Channel Levels (consumer, industrial) 
+22번 :: Ideal Ad Campaign ( Characteristics ) 
+23번 :: communication mix 
+24번 :: Channel Management Decision 
+25번 :: Product Classification 
+26번 :: Pricing Objectives 
+27번 :: consumer reference prices ( 4 ) 
+28번 :: Personal vs Non-personal communication channel 
+29번 :: cause of channel conflict 
+30번 :: Channel Member Functions 
+31번 :: 6 steps setting pricing 
+32번 :: Response hierarchy model 
+33번 :: Brand Portfolios ( 4 ) 
+34번 :: Communication process model
+Macro ( 9 factor ) / Micro 
+35번 :: trap 
+36번 :: Number of Intermediaries 
+37번 :: Conflicts and Competitions 
+38번 :: Brand Value-chain ( 4 ) 

@@ -1,0 +1,39 @@
+1번 :: Marketing channel system 
+2번 :: Channel Levels (consumer, industrial) 
+3번 :: Customer Based Brand Equity ( 3 ) 
+4번 :: Number of Intermediaries 
+5번 :: Buyer readiness stage 
+6번 :: 6 steps setting pricing 
+7번 :: Product Classification 
+8번 :: Communication process model
+Macro ( 9 factor ) / Micro 
+9번 :: cause of channel conflict 
+10번 :: Personal vs Non-personal communication channel 
+11번 :: Brand Element Criteria ( 6 ) 
+12번 :: Channel Member Functions 
+13번 :: Co-Branding ( 4 ) 
+14번 :: communication mix 
+15번 :: Ideal Ad Campaign ( Characteristics ) 
+16번 :: Consumer psychology and pricing ( 3 ) 
+17번 :: Promotional Pricing 
+18번 :: Channel Design Decisions 
+19번 :: Brand Portfolios ( 4 ) 
+20번 :: Response hierarchy model 
+21번 :: Brand Resonance Model ( 6 ) 
+22번 :: Conflicts and Competitions 
+23번 :: Brand Role - for customer ( 5 ), for firm ( 5 ) 
+24번 :: Channel Power 
+25번 :: Geographical Pricing 
+26번 :: trap 
+27번 :: Internal Branding - 4 
+28번 :: Product Mix Pricing ( 6 ) 
+29번 :: consumer reference prices ( 4 ) 
+30번 :: Product line stretching ( 3 ) 
+31번 :: Pricing Objectives 
+32번 :: Pricing Methods 
+33번 :: Channel Management Decision 
+34번 :: Discounts  
+35번 :: Five Product Level 
+36번 :: Product & Service Differentiation  
+37번 :: Five Marketing flows 
+38번 :: Brand Value-chain ( 4 ) 

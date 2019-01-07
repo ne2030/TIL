@@ -17,3 +17,7 @@
 13: codewars - problem solving
 
 15: Coding by Composing - associativity
+
+2019 / 1
+
+7: Generator by ES5

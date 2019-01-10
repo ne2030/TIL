@@ -1,12 +1,19 @@
 // generator or iterator 를 다루는 추상화로 고차 함수들 작성
 const should = require('should');
 
+const call = (f, x) => (x instanceof Promise ? x.then(f) : f(x));
+
 const map = function* (f, iter) {
-    for (const x of iter) yield f(x);
+    for (const x of iter) yield call(f, x);
 };
 
 const filter = function* (f, iter) {
-    for (const x of iter) if (f(x)) yield x;
+    for (const x of iter) {
+        if (x instanceof Promise) {
+
+        }
+        if (call(f, x)) yield x;
+    }
 };
 
 const reduce = function (f, init, coll) {

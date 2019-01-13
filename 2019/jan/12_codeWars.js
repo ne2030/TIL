@@ -1,3 +1,5 @@
+// ADT problems
+
 function zero() { }
 function succ(nat) {
     return () => nat
@@ -39,16 +41,9 @@ function compareTo(nat1, nat2) {
 }
 
 function compareTo(nat1, nat2) {
-    
+
 }
 
 function toString(nat) {
     return nat() ? `succ(${toString(nat())})` : 'zero';
 }
-
-const n5000 = intToNat(5000)
-console.log(
-
-);
-
-// add(intToNat(5000), intToNat(5000))

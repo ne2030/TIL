@@ -1,22 +1,22 @@
 const _ = require('partial-js');
 
-const datas = [
-    '닭갈비',
-    '곰탕',
-    '한식당',
-    '중국집',
-    '삼계탕',
-    '베트남',
-    '바른맥주',
-    '곱창',
-    '부대찌개',
-    '양식',
-    '흑돼지',
-    '무한리필삼겹살',
-    '꼬치집',
-    '스시'
-]
+const menus = require('./8_amasa_matjib_menus');
 
-console.log(
-    _.shuffle(datas)[0]
+const hasProp = key => menu => menu[key];
+const delay = t => new Promise((res) => {
+    setTimeout(res, t);
+});
+
+_.go(
+    menus,
+    _.filter(hasProp('lunch')),
+    // _.filter(hasProp('drink')),
+    // _.reject(hasProp('lunch'))),
+    _.reject(hasProp('seafood')),
+    _.shuffle,
+    _.each(async (m) => {
+        console.log(m.name);
+        await delay(7000);
+    })
+    // _.first,
 );

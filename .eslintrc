@@ -36,6 +36,7 @@
             "LabeledStatement",
             "WithStatement"
         ],
-        "no-console": 0
+        "no-console": 0,
+        "no-return-assign": 0
     }
 }
